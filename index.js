@@ -5,7 +5,7 @@ function lifeInWeeks(age) {
   var y = yearsRemaining * 52;
   var z = yearsRemaining * 12;
   
-    console.log("You have" + x + "days" + y + "weeks and" + z + "months in a year.")
+    console.log("You have " + x + " days " + y + " weeks and " + z +  " months in a year. ")
   
 }
 
